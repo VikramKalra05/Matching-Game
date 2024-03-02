@@ -1,0 +1,29 @@
+
+.activity{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.pinkCont, .blueCont{
+    margin-top: 50px;
+    /* border: 1px solid blue; */
+    padding: 20px;
+    padding-left: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+#gray{
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+
+.card{
+    height: 150px;
+}

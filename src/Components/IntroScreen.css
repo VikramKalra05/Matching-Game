@@ -1,0 +1,57 @@
+.introDiv{
+    /* border: 2px solid red; */
+    padding: 50px;
+}
+
+.backBtnDiv{
+    /* border: 1px solid; */
+    height: 100px;
+    width: 100px;
+}
+
+.textBox{
+    margin-top: -50px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imgBox{
+    margin-right: -50px;
+    height: 160px;
+}
+
+.insideText{
+    padding-top: 20px;
+    padding-right: 200px;
+    margin-left: -240px;
+    margin-right: 100px;
+    color: #11AEC6;
+}
+
+.monkey{
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: center;
+    margin-top: -50px;
+}
+
+.monkey>img{
+    height: 400px;
+}
+
+.bottomDiv{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    margin-top: -100px;
+}
+
+.settingDiv{
+    margin-left: 20px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 250px;
+    align-items: center;
+}
